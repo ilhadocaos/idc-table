@@ -1,0 +1,17 @@
+{
+    "name": "ilhadocaos/idc-table",
+    "description": "tabela",
+    "keywords": ["bootstrap","table","tablesort","pagination"],
+    "type": "component",
+    "homepage": "",
+    "license": "MIT",
+    "require": {
+        "twitter/bootstrap": ">=2.3.0"
+    },
+    "authors": [
+        {
+            "name": "Tiago",
+            "email": "tiagoschafer@faccat.br"
+        }
+    ]
+}
